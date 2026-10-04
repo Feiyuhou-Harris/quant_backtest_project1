@@ -1,7 +1,7 @@
 # quant_backtest_project1
 Python momentum strategy backtesting framework with Pandas
 
-# Quant Backtest Project: Momentum Strategy
+## Quant Backtest Project: Momentum Strategy
 This project implements a momentum trading strategy backtest using Python and Pandas.
 
 ## Project Overview
